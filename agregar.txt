@@ -1,0 +1,2 @@
+hacer random valor offset
+en caso de que foto no traiga imagen no mostrar
